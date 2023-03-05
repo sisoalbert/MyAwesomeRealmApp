@@ -5,6 +5,17 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "495adf15-1ff1-40e3-ab58-efbe5cc19065"
+      }
+    },
+    "android": {
+      "package": "com.questerstudios.MyAwesomeRealmApp"
+    },
+    "ios": {
+      "bundleIdentifier": "y"
+    }
   }
 }
